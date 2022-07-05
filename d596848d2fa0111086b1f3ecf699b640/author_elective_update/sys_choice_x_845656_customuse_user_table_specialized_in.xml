@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="specialized_in" table="x_845656_customuse_user_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>specialized_in</element>
+            <name>x_845656_customuse_user_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_id>4c3900412fe0111086b1f3ecf699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>specialized_in</sys_name>
+            <sys_package display_value="CustomUsers" source="x_845656_customuse">d596848d2fa0111086b1f3ecf699b640</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CustomUsers">d596848d2fa0111086b1f3ecf699b640</sys_scope>
+            <sys_update_name>sys_choice_x_845656_customuse_user_table_specialized_in</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HTML Plain</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>983900412fe0111086b1f3ecf699b668</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>html_plain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HTML Semantic</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>103900412fe0111086b1f3ecf699b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>html_semantic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Javascript  Ajax</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>903900412fe0111086b1f3ecf699b65f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>javascript_ajax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Javascript React</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>183900412fe0111086b1f3ecf699b661</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>javascript_react</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java OOP</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>043900412fe0111086b1f3ecf699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>java_oop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Spring</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c3900412fe0111086b1f3ecf699b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>java_spring</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>943900412fe0111086b1f3ecf699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Python Notebooks</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c3900412fe0111086b1f3ecf699b663</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>python_notebooks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>specialized_in</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Python Pandas</label>
+            <language>en</language>
+            <name>x_845656_customuse_user_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-05 15:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>143900412fe0111086b1f3ecf699b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-05 15:39:42</sys_updated_on>
+            <value>python_pandas</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

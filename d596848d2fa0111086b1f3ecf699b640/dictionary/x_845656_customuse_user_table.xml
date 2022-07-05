@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User table" max_length="40" name="x_845656_customuse_user_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Birthdate" max_length="40" name="birthdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Developing skills" max_length="40" name="developing_skills" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="HTML" value="html"/>
+                <element inactive_on_update="false" label="Java" value="java"/>
+                <element inactive_on_update="false" label="Javascript" value="javascript"/>
+                <element inactive_on_update="false" label="Phyton" value="phyton"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
+        <element attributes="encode_utf8=false" label="Ref to the manager" max_length="32" name="ref_to_the_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Specialized in" max_length="40" name="specialized_in" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="HTML Plain" value="html_plain"/>
+                <element inactive_on_update="false" label="HTML Semantic" value="html_semantic"/>
+                <element inactive_on_update="false" label="Java OOP" value="java_oop"/>
+                <element inactive_on_update="false" label="Java Spring" value="java_spring"/>
+                <element inactive_on_update="false" label="Javascript  Ajax" value="javascript_ajax"/>
+                <element inactive_on_update="false" label="Javascript React" value="javascript_react"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="Python Notebooks" value="python_notebooks"/>
+                <element inactive_on_update="false" label="Python Pandas" value="python_pandas"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Surname" max_length="40" name="surname" type="string"/>
+        <element label="Years of experience" max_length="40" name="years_of_experience" type="integer"/>
+        <index name="index">
+            <element name="ref_to_the_manager"/>
+        </index>
+    </element>
+</database>
